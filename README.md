@@ -37,3 +37,7 @@ Note: Numbers may be suffixed with s,m,h,d,y (time) or B,K,M,G (size).
 ```
 $ nkd-build
 ```
+
+## Info
+
+This is android port of https://people.seas.harvard.edu/~apw/stress/
